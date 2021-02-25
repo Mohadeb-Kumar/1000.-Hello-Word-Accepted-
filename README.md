@@ -1,1 +1,1 @@
-# 1000.-Hello-Word-Accepted-
+# 1000.-Hello-Word-(Accepted) in C++
